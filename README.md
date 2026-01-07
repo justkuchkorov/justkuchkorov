@@ -32,7 +32,7 @@ Currently pursuing **BSc in Electrical Engineering at the University of Debrecen
 
 ### 📈 GitHub Stats
 
-![Abdurakhmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=justkuchkorov&show_icons=true&theme=radical)
+![Abdurakhmon's GitHub stats]((https://github.com/justkuchkorov/github-readme-stats))
 
 ### 📫 Contact Me
 
