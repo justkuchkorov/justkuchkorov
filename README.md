@@ -1,13 +1,39 @@
-### Hi there, I'm Abdurakhmon! 👋
+# 👋 Hi, I'm Abdurakhmon Kuchkorov
 
-I'm an **Electrical Engineering Student** passionate about **Industrial Automation** and **Hardware-in-the-Loop (HIL)** simulations. I use code to control physical systems.
+I'm an **Electrical Engineering Student** passionate about **Industrial Automation**, **Hardware-in-the-Loop (HIL)** simulations, and bridging the gap between software and physical machinery.
 
-- 🔭 **I’m currently working on:** Industrial Control Loop Simulations connecting Python physics engines with CODESYS PLCs.
-- 🏭 **Core Stack:** Python (Data/Comms), C++, Siemens TIA Portal, AutoCAD Electrical.
-- ⚡ **Fun fact:** I built a Drive-by-Wire simulation with <50ms latency using Modbus TCP.
+Currently pursuing **BSc in Electrical Engineering at the University of Debrecen** (2023–2027).
 
-### 🛠️ Tech & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Siemens](https://img.shields.io/badge/Siemens_TIA-009999?style=for-the-badge&logo=siemens&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC_Programming-FFA500?style=for-the-badge)
+### 🛠 Tech Stack
+
+**Industrial Automation:** Siemens TIA Portal (Ladder, FBD), CODESYS, PLC Programming (IEC 61131-3), Modbus TCP/IP
+
+**Engineering Software:** AutoCAD Electrical, MATLAB/Simulink, LabVIEW, EasySoft
+
+**Programming & Data:** Python (Data Analysis & HIL), C/C++, Microsoft Excel (Advanced Macros), Power BI
+
+**Process & Standards:** ISO 9001, ISO 45001, Industrial Safety Regulations, Process Verification
+
+### 📂 Featured Projects
+
+**Industrial Control Loop Simulation (HIL)** A Hardware-in-the-Loop architecture connecting Python physics engines with industrial CODESYS PLCs via Modbus TCP.
+- **Tech:** Python, CODESYS, Modbus, PID Control
+- **Highlight:** Implemented PID logic to stabilize system dynamics with <1% error margin.
+
+**HIL Drive-by-Wire Simulation** Real-time testbench connecting physical steering hardware to an industrial SoftPLC.
+- **Tech:** Python (Pymodbus), Matplotlib, IEC 61131-3
+- **Highlight:** Achieved <50ms latency for real-time signal processing and "Eco Mode" logic simulation.
+
+### 💼 Experience Highlights
+
+**Assistant Engineer (Internship) — HET.UZ JSC, Tashkent** (Jun 2024 – Aug 2024)
+- Supported engineering operations for **transformer units** and distribution systems.
+- Automated data reporting using **Excel Macros** (reduced time by 20%) and ensured ISO safety compliance.
+
+### 📈 GitHub Stats
+
+![Abdurakhmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=justkuchkorov&show_icons=true&theme=radical)
+
+### 📫 Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/justkuchkorov) | [Email](mailto:abdurakhmonkuchkorov@gmail.com)
