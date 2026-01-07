@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Abdurakhmon! 👋
 
-<!--
-**justkuchkorov/justkuchkorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electrical Engineering Student** passionate about **Industrial Automation** and **Hardware-in-the-Loop (HIL)** simulations. I use code to control physical systems.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Industrial Control Loop Simulations connecting Python physics engines with CODESYS PLCs.
+- 🏭 **Core Stack:** Python (Data/Comms), C++, Siemens TIA Portal, AutoCAD Electrical.
+- ⚡ **Fun fact:** I built a Drive-by-Wire simulation with <50ms latency using Modbus TCP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Siemens](https://img.shields.io/badge/Siemens_TIA-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC_Programming-FFA500?style=for-the-badge)
