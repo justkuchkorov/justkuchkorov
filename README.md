@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdurakhmon Kuchkorov
+# 👋 Hi, I'm Max Kuchkorov
 
 I'm an **Electrical Engineering Student** passionate about **Industrial Automation**, **Hardware-in-the-Loop (HIL)** simulations, and bridging the gap between software and physical machinery.
 
