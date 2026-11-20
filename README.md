@@ -1,7 +1,7 @@
 # Abdurakhmon Kuchkorov
 
 Final-year Electrical Engineering BSc student at the University of Debrecen, Hungary,
-specialising in Industrial Process Control (IPS). I'm heading for industrial automation and
+specialising in Industrial Process Control (IPC). I'm heading for industrial automation and
 control: PLCs, SCADA, instrumentation and energy systems.
 
 ## Now: my BSc thesis
